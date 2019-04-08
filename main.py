@@ -9,3 +9,7 @@ for number in a:
 
 print('Fin de la cita')
 
+for i in range(1, 15):
+    print('Adios ' * (i * 3 ))
+    
+print('Fin de la cita')
